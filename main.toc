@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{爬山法}{3}{0}{1}
+\beamer@sectionintoc {2}{模拟退火算法}{5}{0}{2}
+\beamer@sectionintoc {3}{遗传算法}{10}{0}{3}
